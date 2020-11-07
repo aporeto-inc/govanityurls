@@ -46,221 +46,221 @@ paths:
 
   ## Private
   /underwater:
-    repo: https://github.com/aporeto-inc/underwater
+    repo: https://gitlab.com/prismacloud/pcn/underwater
     private: true
 
   /doublecut:
-    repo: https://github.com/aporeto-inc/doublecut
+    repo: https://gitlab.com/prismacloud/pcn/doublecut
     private: true
 
   /netlink-go:
-    repo: https://github.com/aporeto-inc/netlink-go
+    repo: https://gitlab.com/prismacloud/pcn/netlink-go
     private: true
 
   /meistertracer:
-    repo: https://github.com/aporeto-inc/meistertracer
+    repo: https://gitlab.com/prismacloud/pcn/meistertracer
     private: true
 
   /apocheck:
-    repo: https://github.com/aporeto-inc/apocheck
+    repo: https://gitlab.com/prismacloud/pcn/apocheck
     private: true
 
   /apotests-lib:
-    repo: https://github.com/aporeto-inc/apotests-lib
+    repo: https://gitlab.com/prismacloud/pcn/apotests-lib
     private: true
 
   /cosmomemory:
-    repo: https://github.com/aporeto-inc/cosmomemory
+    repo: https://gitlab.com/prismacloud/pcn/cosmomemory
     private: true
 
   /godog:
-    repo: https://github.com/aporeto-inc/godog
+    repo: https://gitlab.com/prismacloud/pcn/godog
     private: true
 
   /revive:
-    repo: https://github.com/aporeto-inc/revive
+    repo: https://gitlab.com/prismacloud/pcn/revive
     private: true
 
   /squall:
-    repo: https://github.com/aporeto-inc/squall
+    repo: https://gitlab.com/prismacloud/pcn/squall
     private: true
 
   /wutai:
-    repo: https://github.com/aporeto-inc/wutai
+    repo: https://gitlab.com/prismacloud/pcn/wutai
     private: true
 
   /barret:
-    repo: https://github.com/aporeto-inc/barret
+    repo: https://gitlab.com/prismacloud/pcn/barret
     private: true
 
   /midgard:
-    repo: https://github.com/aporeto-inc/midgard
+    repo: https://gitlab.com/prismacloud/pcn/midgard
     private: true
 
   /nanaki:
-    repo: https://github.com/aporeto-inc/nanaki
+    repo: https://gitlab.com/prismacloud/pcn/nanaki
     private: true
 
   /sephiroth:
-    repo: https://github.com/aporeto-inc/sephiroth
+    repo: https://gitlab.com/prismacloud/pcn/sephiroth
     private: true
 
   /vince:
-    repo: https://github.com/aporeto-inc/vince
+    repo: https://gitlab.com/prismacloud/pcn/vince
     private: true
 
   /highwind:
-    repo: https://github.com/aporeto-inc/highwind
+    repo: https://gitlab.com/prismacloud/pcn/highwind
     private: true
 
   /zack:
-    repo: https://github.com/aporeto-inc/zack
+    repo: https://gitlab.com/prismacloud/pcn/zack
     private: true
 
   /jenova:
-    repo: https://github.com/aporeto-inc/jenova
+    repo: https://gitlab.com/prismacloud/pcn/jenova
     private: true
 
   /elena:
-    repo: https://github.com/aporeto-inc/elena
+    repo: https://gitlab.com/prismacloud/pcn/elena
     private: true
 
   /tagle:
-    repo: https://github.com/aporeto-inc/tagle
+    repo: https://gitlab.com/prismacloud/pcn/tagle
     private: true
 
   /hojo:
-    repo: https://github.com/aporeto-inc/hojo
+    repo: https://gitlab.com/prismacloud/pcn/hojo
     private: true
 
   /cactuar:
-    repo: https://github.com/aporeto-inc/cactuar
+    repo: https://gitlab.com/prismacloud/pcn/cactuar
     private: true
 
   /yuffie:
-    repo: https://github.com/aporeto-inc/yuffie
+    repo: https://gitlab.com/prismacloud/pcn/yuffie
     private: true
 
   /yuna:
-    repo: https://github.com/aporeto-inc/yuna
+    repo: https://gitlab.com/prismacloud/pcn/yuna
     private: true
 
   /tifa:
-    repo: https://github.com/aporeto-inc/tifa
+    repo: https://gitlab.com/prismacloud/pcn/tifa
     private: true
 
   /marlene:
-    repo: https://github.com/aporeto-inc/marlene
+    repo: https://gitlab.com/prismacloud/pcn/marlene
     private: true
 
   /meister:
-    repo: https://github.com/aporeto-inc/meister
+    repo: https://gitlab.com/prismacloud/pcn/meister
     private: true
 
   /kube-squall:
-    repo: https://github.com/aporeto-inc/kube-squall
+    repo: https://gitlab.com/prismacloud/pcn/kube-squall
     private: true
 
   /claire:
-    repo: https://github.com/aporeto-inc/claire
+    repo: https://gitlab.com/prismacloud/pcn/claire
     private: true
 
   /wedge:
-    repo: https://github.com/aporeto-inc/wedge
+    repo: https://gitlab.com/prismacloud/pcn/wedge
     private: true
 
   /enforcerd:
-    repo: https://github.com/aporeto-inc/enforcerd
+    repo: https://gitlab.com/prismacloud/pcn/enforcerd
     private: true
 
   /apoctl:
-    repo: https://github.com/aporeto-inc/apoctl
+    repo: https://gitlab.com/prismacloud/pcn/apoctl
     private: true
 
   /backend:
-    repo: https://github.com/aporeto-inc/backend
+    repo: https://gitlab.com/prismacloud/pcn/backend
     private: true
 
   /integrations-lib:
-    repo: https://github.com/aporeto-inc/integrations-lib
+    repo: https://gitlab.com/prismacloud/pcn/integrations-lib
     private: true
 
   /bireme:
-    repo: https://github.com/aporeto-inc/bireme
+    repo: https://gitlab.com/prismacloud/pcn/bireme
     private: true
 
   /aporeto-operator:
-    repo: https://github.com/aporeto-inc/aporeto-operator
+    repo: https://gitlab.com/prismacloud/pcn/aporeto-operator
     private: true
 
   /apotests:
-    repo: https://github.com/aporeto-inc/apotests
+    repo: https://gitlab.com/prismacloud/pcn/apotests
     private: true
 
   /aposystest:
-    repo: https://github.com/aporeto-inc/aposystest
+    repo: https://gitlab.com/prismacloud/pcn/aposystest
     private: true
 
   /aporeliable:
-    repo: https://github.com/aporeto-inc/aporeliable
+    repo: https://gitlab.com/prismacloud/pcn/aporeliable
     private: true
 
   /splunk:
-    repo: https://github.com/aporeto-inc/splunk
+    repo: https://gitlab.com/prismacloud/pcn/splunk
     private: true
 
   /terraform:
-    repo: https://github.com/aporeto-inc/terraform
+    repo: https://gitlab.com/prismacloud/pcn/terraform
     private: true
 
   /ansible:
-    repo: https://github.com/aporeto-inc/ansible
+    repo: https://gitlab.com/prismacloud/pcn/ansible
     private: true
 
   /benchmark-suite:
-    repo: https://github.com/aporeto-inc/benchmark-suite
+    repo: https://gitlab.com/prismacloud/pcn/benchmark-suite
     private: true
 
   /sputnik:
-    repo: https://github.com/aporeto-inc/sputnik
+    repo: https://gitlab.com/prismacloud/pcn/sputnik
     private: true
 
   /spammer:
-    repo: https://github.com/aporeto-inc/spammer
+    repo: https://gitlab.com/prismacloud/pcn/spammer
     private: true
 
   /eevee:
-    repo: https://github.com/aporeto-inc/eevee
+    repo: https://gitlab.com/prismacloud/pcn/eevee
     private: true
 
   /jolteon:
-    repo: https://github.com/aporeto-inc/jolteon
+    repo: https://gitlab.com/prismacloud/pcn/jolteon
     private: true
 
   /flareon:
-    repo: https://github.com/aporeto-inc/flareon
+    repo: https://gitlab.com/prismacloud/pcn/flareon
     private: true
 
   /vaporeon:
-    repo: https://github.com/aporeto-inc/vaporeon
+    repo: https://gitlab.com/prismacloud/pcn/vaporeon
     private: true
 
   /espeon:
-    repo: https://github.com/aporeto-inc/espeon
+    repo: https://gitlab.com/prismacloud/pcn/espeon
     private: true
 
   /umbreon:
-    repo: https://github.com/aporeto-inc/umbreon
+    repo: https://gitlab.com/prismacloud/pcn/umbreon
     private: true
 
   /leafeon:
-    repo: https://github.com/aporeto-inc/leafeon
+    repo: https://gitlab.com/prismacloud/pcn/leafeon
     private: true
 
   /glaceon:
-    repo: https://github.com/aporeto-inc/glaceon
+    repo: https://gitlab.com/prismacloud/pcn/glaceon
     private: true
 
   /go-twistlock:
-    repo: https://github.com/aporeto-inc/go-twistlock
+    repo: https://gitlab.com/prismacloud/pcn/go-twistlock
     private: true
