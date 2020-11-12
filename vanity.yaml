@@ -3,46 +3,46 @@ host: go.aporeto.io
 paths:
   ## Public
   /api:
-    repo: https://github.com/aporeto-inc/api
+    repo: https://gitlab.com/prismacloud-public/pcn/api
 
   /regolithe:
-    repo: https://github.com/aporeto-inc/regolithe
+    repo: https://gitlab.com/prismacloud-public/pcn/regolithe
 
   /manipulate:
-    repo: https://github.com/aporeto-inc/manipulate
+    repo: https://gitlab.com/prismacloud-public/pcn/manipulate
 
   /tg:
-    repo: https://github.com/aporeto-inc/tg
+    repo: https://gitlab.com/prismacloud-public/pcn/tg
 
   /elemental:
-    repo: https://github.com/aporeto-inc/elemental
+    repo: https://gitlab.com/prismacloud-public/pcn/elemental
 
   /gaia:
-    repo: https://github.com/aporeto-inc/gaia
+    repo: https://gitlab.com/prismacloud-public/pcn/gaia
 
   /bahamut:
-    repo: https://github.com/aporeto-inc/bahamut
+    repo: https://gitlab.com/prismacloud-public/pcn/bahamut
 
   /addedeffect:
-    repo: https://github.com/aporeto-inc/addedeffect
+    repo: https://gitlab.com/prismacloud-public/pcn/addedeffect
 
   /midgard-lib:
-    repo: https://github.com/aporeto-inc/midgard-lib
+    repo: https://gitlab.com/prismacloud-public/pcn/midgard-lib
 
   /trireme-lib:
-    repo: https://github.com/aporeto-inc/trireme-lib
+    repo: https://gitlab.com/prismacloud-public/pcn/trireme-lib
 
   /groomer:
-    repo: https://github.com/aporeto-inc/groomer
+    repo: https://gitlab.com/prismacloud-public/pcn/groomer
 
   /phoenix:
-    repo: https://github.com/aporeto-inc/phoenix
+    repo: https://gitlab.com/prismacloud-public/pcn/phoenix
 
   /wsc:
-    repo: https://github.com/aporeto-inc/wsc
+    repo: https://gitlab.com/prismacloud-public/pcn/wsc
 
   /remod:
-    repo: https://github.com/aporeto-inc/remod
+    repo: https://gitlab.com/prismacloud-public/pcn/remod
 
   ## Private
   /underwater:
