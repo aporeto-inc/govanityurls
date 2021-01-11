@@ -272,3 +272,7 @@ paths:
   /cns-agent-mgr:
     repo: https://github.com/aporeto-inc/cns-agent-mgr
     private: true
+
+  /prismacloud:
+    repo: https://github.com/aporeto-inc/prismacloud
+    private: true
